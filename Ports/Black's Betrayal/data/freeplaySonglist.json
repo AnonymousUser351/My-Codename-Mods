@@ -1,0 +1,10 @@
+{
+    "addOGSongs": true,
+    "songs": [
+        {
+            "name": "Defeat",
+            "icon": "black",
+            "color": "#242424"
+        }
+    ]
+}
