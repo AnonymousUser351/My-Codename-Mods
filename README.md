@@ -1,5 +1,3 @@
-# Codename-Ports
-Collection of ports that I made with YoshiCrafter's Codename Engine
+# My-Codename-Mods
 
-All ports below will function, but not fully work on the latest Codename Engine update
-- Black's Betrayal
+A collection of all of my Codename Mods and Ports, all in one place.
