@@ -1,7 +1,0 @@
-<!DOCTYPE codename-engine-stage>
-<stage zoom="0.5" name="defeat" folder="stages/defeat/">
-    <sprite name="bg"               x="-2400" y="-1900"   sprite="reactor background defeat"       scroll="1" />
-    <girlfriend y="3000"/>
-    <dad x="-200" y="130"/>
-    <boyfriend x="750" y="130"/>
-</stage>
